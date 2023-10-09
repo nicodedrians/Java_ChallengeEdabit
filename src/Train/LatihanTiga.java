@@ -5,27 +5,30 @@ import java.util.Arrays;
 public class LatihanTiga {
     public static void main(String[] args) {
 
+        /*
         // challenge one
-//        String challengeOne = challengeOne("aabbcc");
-//        System.out.println(challengeOne);
+        String challengeOne = challengeOne("aabbcc");
+        System.out.println(challengeOne);
 
         // challenge two
-//        String challengeTwo = Arrays.toString(challengeTwo("\"((()))(())()()(()())\""));
-//        System.out.println(challengeTwo);
+        String challengeTwo = Arrays.toString(challengeTwo("\"((()))(())()()(()())\""));
+        System.out.println(challengeTwo);
 
-            // challenge Three
-//        int challengeThree = challengeThree(9);
-//        System.out.println(challengeThree);
+        // challenge Three
+        int challengeThree = challengeThree(9);
+        System.out.println(challengeThree);
 
         // challenge Four
-//        int challengeFour = challengeFour(77);
-//        System.out.println(challengeFour);
+        int challengeFour = challengeFour(77);
+        System.out.println(challengeFour);
 
         // challenge Five
-//        int challengeFive = challengeFive(17,24);
-//        System.out.println(challengeFive);
+        int challengeFive = challengeFive(17,24);
+        System.out.println(challengeFive);
 
         tryAndError();
+
+         */
     }
     static void tryAndError(){
         // a = 97
