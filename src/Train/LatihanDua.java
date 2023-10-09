@@ -6,48 +6,49 @@ import java.util.Arrays;
 public class LatihanDua {
     public static void main(String[] args) {
 
+        /*
         // challenge one
-//        boolean challengeOne = challengeOne(new int[] {10,7,8,6,9});
-//        System.out.println(challengeOne);
+        boolean challengeOne = challengeOne(new int[] {10,7,8,6,9});
+        System.out.println(challengeOne);
 
         // challenge two
-//        int challengeTwo = challengeTwo(new int[]{1,10,3,5});
-//        System.out.println(challengeTwo);
+        int challengeTwo = challengeTwo(new int[]{1,10,3,5});
+        System.out.println(challengeTwo);
 
         // challenge three
-//        boolean challengeThree = challengeThree(new int[] {2,5,2,6,9}, new int[] {3,7,3,1,2});
-//        System.out.println(challengeThree);
+        boolean challengeThree = challengeThree(new int[] {2,5,2,6,9}, new int[] {3,7,3,1,2});
+        System.out.println(challengeThree);
 
         // challenge 4
-//        boolean challengeFour = challengeFour(120);
-//        System.out.println(challengeFour);
+        boolean challengeFour = challengeFour(120);
+        System.out.println(challengeFour);
 
         // challenge 5
-//        boolean challengeFive = challengeFive(200);
-//        System.out.println(challengeFive);
+        boolean challengeFive = challengeFive(200);
+        System.out.println(challengeFive);
 
         // challenge 6
-//        boolean challengeSix = challengeSix(new int[] {2,8,4,1});
-//        System.out.println(challengeSix);
-
-        //testAndError();
+        boolean challengeSix = challengeSix(new int[] {2,8,4,1});
+        System.out.println(challengeSix);
 
         // challenge 7
-//        String challengeSeven = challengeSeven("lPaeesh le pemu mnxit ehess rtnisg!");
-//        System.out.println(challengeSeven);
+        String challengeSeven = challengeSeven("lPaeesh le pemu mnxit ehess rtnisg!");
+        System.out.println(challengeSeven);
 
         // challenge 8
-//        String challengeEight = challengeEight("Bananas");
-//        System.out.println(challengeEight);
+        String challengeEight = challengeEight("Bananas");
+        System.out.println(challengeEight);
 
+        // challenge 9
         Boolean challengeNine = challengeNine("Rockstar");
         System.out.println(challengeNine);
 
         // challenge 10
-//        String challengeTen = challengeTen("(325)444-TEST");
-//        System.out.println(challengeTen);
+        String challengeTen = challengeTen("(325)444-TEST");
+        System.out.println(challengeTen);
 
         testAndError();
+         */
     }
     static void testAndError(){
 
